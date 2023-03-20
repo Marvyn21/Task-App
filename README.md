@@ -1,0 +1,1 @@
+This is a task app built in JavaScript to learn about CRUD (Create, Read, Update, Delete) operations. The app allows the user to create, view, update and delete tasks. It demonstrates basic functionality using local storage for data persistence.
